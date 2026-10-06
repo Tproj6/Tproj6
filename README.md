@@ -2,7 +2,7 @@
 
 Quantitative Finance student at Maynooth University, focused on asset management and portfolio analysis.
 
-📫 [LinkedIn](https://www.linkedin.com/in/thanh-nguyen-02187a36a/) &nbsp;|&nbsp; 📄 [CV](https://docs.google.com/document/d/1Jw1RfbqwtTFaEsfB7M7u7Yvq5FosRRgu/edit?usp=drive_link&ouid=100915301574949273841&rtpof=true&sd=true)
+📫 [LinkedIn](https://www.linkedin.com/in/thanh-nguyen-02187a36a/) &nbsp;|&nbsp; 📄 [CV](https://docs.google.com/document/d/1aqQtFqUJ9yn8LUjz1O_b7fL8dfyG0a36/edit?usp=drive_link&ouid=100915301574949273841&rtpof=true&sd=true)
 
 ## Projects
 
